@@ -1,0 +1,7 @@
+.git
+.venv
+__pycache__
+*.pyc
+incident_memory.sqlite3
+.env
+.streamlit/secrets.toml
